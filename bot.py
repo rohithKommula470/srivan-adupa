@@ -7,9 +7,9 @@ from playwright.async_api import async_playwright
 
 # HARDCODED CREDENTIALS
 ACCOUNTS = [
-    {"email": "saipavan7748@gmail.com", "password": "Sai@1234"},
-    {"email": "skywalker774826@gmail.com", "password": "Sky@1234"},
-    {"email": "adupasrivankumar@gmail.com", "password": "Srivan@1234"},
+    {"email": "fakenameeee448@gmail.com", "password": "rohith@123"},
+    {"email": "im1502788@gmail.com", "password": "rohith@123"},
+   
 ]
 
 LOGIN_URL = "https://app.chartacademy.com/login"
